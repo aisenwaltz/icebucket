@@ -1,0 +1,13 @@
+{
+  "name": "icebucket",
+  "description": "bot and waifu of shin, named Aireen",
+  "version": "0.0.0",
+  "main": "icebucket.js",
+  "scripts": {
+    "start": "node icebucket.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
